@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Empleados",
+    "description": "Gestión de datos personales y laborales de los empleados",
+    "availableInPlans": ["Básico", "Premium"]
+  },
+  {
+    "name": "Asistencia",
+    "description": "Control de asistencia y puntualidad del personal",
+    "availableInPlans": ["Básico", "Premium"]
+  },
+  {
+    "name": "Vacaciones y licencias",
+    "description": "Gestión de solicitudes, saldos y aprobaciones de vacaciones y licencias",
+    "availableInPlans": ["Básico", "Premium"]
+  },
+  {
+    "name": "Horarios",
+    "description": "Configuración y seguimiento de horarios laborales",
+    "availableInPlans": ["Básico", "Premium"]
+  },
+  {
+    "name": "Boletas electrónicas",
+    "description": "Generación y entrega de boletas de pago digitales",
+    "availableInPlans": ["Básico", "Premium"]
+  },
+  {
+    "name": "Cálculo de planilla + PLAME",
+    "description": "Cálculo automático de planillas y generación de archivos PLAME",
+    "availableInPlans": ["Premium"]
+  },
+  {
+    "name": "AFP Net",
+    "description": "Generación de archivos para AFP Net",
+    "availableInPlans": ["Premium"]
+  },
+  {
+    "name": "Gestor documental",
+    "description": "Almacenamiento y gestión de documentos laborales",
+    "availableInPlans": ["Básico", "Premium"]
+  },
+  {
+    "name": "Seguridad laboral",
+    "description": "Registro y seguimiento de medidas de seguridad y salud en el trabajo",
+    "availableInPlans": ["Premium"]
+  },
+  {
+    "name": "Reclutamiento y selección",
+    "description": "Gestión de procesos de selección y entrevistas",
+    "availableInPlans": ["Premium"]
+  },
+  {
+    "name": "Reportes y analíticas",
+    "description": "Visualización de indicadores y generación de reportes personalizados",
+    "availableInPlans": ["Premium"]
+  },
+  {
+    "name": "Capacitación",
+    "description": "Registro y seguimiento de capacitaciones internas y externas",
+    "availableInPlans": ["Premium"]
+  },
+  {
+    "name": "Evaluaciones",
+    "description": "Evaluación de desempeño y retroalimentación del personal",
+    "availableInPlans": ["Premium"]
+  },
+  {
+    "name": "Beneficios",
+    "description": "Gestión de beneficios laborales ofrecidos por la empresa",
+    "availableInPlans": ["Premium"]
+  },
+  {
+    "name": "Bienestar y clima laboral",
+    "description": "Medición y mejora del bienestar y clima organizacional",
+    "availableInPlans": ["Premium"]
+  },
+  {
+    "name": "Cumplimiento legal",
+    "description": "Seguimiento de obligaciones legales laborales",
+    "availableInPlans": ["Premium"]
+  },
+  {
+    "name": "App para colaboradores",
+    "description": "Acceso móvil para empleados a sus datos y funcionalidades",
+    "availableInPlans": ["Básico", "Premium"]
+  }
+]
